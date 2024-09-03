@@ -1,4 +1,6 @@
-# 4 - Service serve para fazer o balanceamento
+## 4. Criar um Service
+
+# Um Service expõe um ou mais Pods para a rede interna ou externa, facilitando o balanceamento de carga e acesso aos Pods.
 
 apiVersion: v1
 kind: Service

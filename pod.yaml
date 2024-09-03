@@ -1,4 +1,6 @@
-# 1 - Começa pelo POD
+## 1. Criar um Pod
+
+# O primeiro passo é criar um Pod, que é a menor unidade executável no Kubernetes. Ele pode conter um ou mais containers.
 
 apiVersion: v1
 kind: Pod

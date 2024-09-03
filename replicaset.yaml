@@ -1,4 +1,6 @@
-# 2 - Faz as réplicas dos Pods
+## 2 - Criar um ReplicaSet
+
+# Um ReplicaSet garante que um número especificado de réplicas de um Pod esteja em execução a qualquer momento.
 
 apiVersion: apps/v1
 kind: ReplicaSet

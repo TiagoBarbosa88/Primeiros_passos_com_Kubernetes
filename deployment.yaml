@@ -1,4 +1,6 @@
-# 3 - Faz o deploy ( Atualiza os pods e replicaSets)
+## 3 - Criar um Deployment
+
+# Um Deployment gerencia a criação e atualização de Pods e ReplicaSets, garantindo que a versão desejada dos Pods esteja sempre em execução.
 
 apiVersion: apps/v1
 kind: Deployment
